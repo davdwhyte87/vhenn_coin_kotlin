@@ -1,0 +1,11 @@
+
+
+vhenngames
+=Pt?J8e?!%Y9H,m
+
+Ideas
+When we send a message to a node and its offline, we keep that count.
+when a node is offline for too long, it gets kicked out of server nod list
+registry
+
+'{"action":"GET_WALLET_CHAIN","walletAddress":"yunno99"}'
